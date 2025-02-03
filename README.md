@@ -24,4 +24,4 @@ Kimia Farma merupakan salah satu perusahaan farmasi terbesar di Indonesia yang b
 *  ![image](https://github.com/user-attachments/assets/3de9c9f9-0b36-41e5-bca4-2f7c0f33ba3b)
 
 ### Query Tabel Analisa
-
+**tabel_analisa.sql**
