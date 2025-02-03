@@ -24,4 +24,6 @@ Kimia Farma merupakan salah satu perusahaan farmasi terbesar di Indonesia yang b
 *  ![image](https://github.com/user-attachments/assets/3de9c9f9-0b36-41e5-bca4-2f7c0f33ba3b)
 
 ### Query Tabel Analisa
-**tabel_analisa.sql**
+[**tabel_analisa.sql**](https://github.com/Iqbalkamal/Rakamin-x-Kimia-Farma-Big-Data-Analytics/blob/a0b95b503cf235fa898cddccbfe05f69a6f19b3a/tabel_analisa.sql)
+
+### Membuat Dashboard
