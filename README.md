@@ -1,6 +1,6 @@
 # Rakamin_x_Kimia_Farma_Big_Data_Analytics
 
-** Kimia Farma
+# Kimia Farma
 Nama Perusahaan: PT Kimia Farma Tbk
 Industri: Farmasi, kesehatan, dan layanan kesehatan
 Didirikan: 1817 (awal mula sebagai NV Chemicalien Handle Rathkamp & Co)
