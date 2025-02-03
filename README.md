@@ -17,6 +17,11 @@ Kimia Farma merupakan salah satu perusahaan farmasi terbesar di Indonesia yang b
 
 ## Langkah Pengerjaan
 
-* Import Dataset
-  ![Alt text](C:\Users\Lenovo\Downloads)
-  
+### Import Dataset
+*  ![image](https://github.com/user-attachments/assets/bb779b21-1bd4-4c9c-ad32-4433e3f6dfd2)
+*  ![image](https://github.com/user-attachments/assets/d3089309-5fd0-4ed0-ac77-cbed7408653c)
+*  ![image](https://github.com/user-attachments/assets/2262d93c-bd84-4fc8-bd8e-f22251abd282)
+*  ![image](https://github.com/user-attachments/assets/3de9c9f9-0b36-41e5-bca4-2f7c0f33ba3b)
+
+### Query Tabel Analisa
+
